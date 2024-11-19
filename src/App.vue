@@ -4,6 +4,7 @@ import WindowSizeDemo from "./components/WindowSizeDemo.vue";
 import AsyncStateDemo from "./components/AsyncStateDemo.vue";
 import ElementSizeDemo from "./components/ElementSizeDemo.vue";
 import TimeoutIntervalDemo from "./components/TimeoutIntervalDemo.vue";
+import TransitionDemo from "./components/TransitionDemo.vue";
 </script>
 
 <template>
@@ -11,5 +12,6 @@ import TimeoutIntervalDemo from "./components/TimeoutIntervalDemo.vue";
 <!--  <WindowSizeDemo/>-->
 <!--  <AsyncStateDemo/>-->
 <!--  <ElementSizeDemo/>-->
-  <TimeoutIntervalDemo/>
+<!--  <TimeoutIntervalDemo/>-->
+  <TransitionDemo/>
 </template>

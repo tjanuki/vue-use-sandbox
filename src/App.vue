@@ -5,6 +5,7 @@ import AsyncStateDemo from "./components/AsyncStateDemo.vue";
 import ElementSizeDemo from "./components/ElementSizeDemo.vue";
 import TimeoutIntervalDemo from "./components/TimeoutIntervalDemo.vue";
 import TransitionDemo from "./components/TransitionDemo.vue";
+import ScrollDemo from "./components/ScrollDemo.vue";
 </script>
 
 <template>
@@ -13,5 +14,6 @@ import TransitionDemo from "./components/TransitionDemo.vue";
 <!--  <AsyncStateDemo/>-->
 <!--  <ElementSizeDemo/>-->
 <!--  <TimeoutIntervalDemo/>-->
-  <TransitionDemo/>
+<!--  <TransitionDemo/>-->
+  <ScrollDemo/>
 </template>

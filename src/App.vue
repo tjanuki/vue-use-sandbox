@@ -6,6 +6,7 @@ import ElementSizeDemo from "./components/ElementSizeDemo.vue";
 import TimeoutIntervalDemo from "./components/TimeoutIntervalDemo.vue";
 import TransitionDemo from "./components/TransitionDemo.vue";
 import ScrollDemo from "./components/ScrollDemo.vue";
+import FetchDemo from "./components/FetchDemo.vue";
 </script>
 
 <template>
@@ -15,5 +16,6 @@ import ScrollDemo from "./components/ScrollDemo.vue";
 <!--  <ElementSizeDemo/>-->
 <!--  <TimeoutIntervalDemo/>-->
 <!--  <TransitionDemo/>-->
-  <ScrollDemo/>
+<!--  <ScrollDemo/>-->
+  <FetchDemo/>
 </template>

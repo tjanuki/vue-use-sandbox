@@ -7,6 +7,7 @@ import TimeoutIntervalDemo from "./components/TimeoutIntervalDemo.vue";
 import TransitionDemo from "./components/TransitionDemo.vue";
 import ScrollDemo from "./components/ScrollDemo.vue";
 import FetchDemo from "./components/FetchDemo.vue";
+import DarkModeDemo from "./components/DarkModeDemo.vue";
 </script>
 
 <template>
@@ -17,5 +18,6 @@ import FetchDemo from "./components/FetchDemo.vue";
 <!--  <TimeoutIntervalDemo/>-->
 <!--  <TransitionDemo/>-->
 <!--  <ScrollDemo/>-->
-  <FetchDemo/>
+<!--  <FetchDemo/>-->
+  <DarkModeDemo/>
 </template>
